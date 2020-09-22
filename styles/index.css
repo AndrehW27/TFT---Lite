@@ -15,7 +15,7 @@ header{
 .logo{
     width: 80px;
     height: 30px;
-    background-image: url("/assets/images/Teamfight_Tactics_logo.png");
+    background-image: url("./assets/images/Teamfight_Tactics_logo.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -50,7 +50,7 @@ header{
     justify-content: space-evenly;
     width: 100vw;
     height: 100vh;
-    background-image: url("/assets/images/fundo1.jpg");
+    background-image: url("./assets/images/fundo1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -125,7 +125,7 @@ footer{
 }
 
 .arrow-up{
-    background-image: url("/assets/icons/up-arrow_white.png");
+    background-image: url("./assets/icons/up-arrow_white.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -159,15 +159,15 @@ footer{
 
 
 #face-riot{
-    background-image: url("/assets/icons/facebook_white.png");
+    background-image: url("./assets/icons/facebook_white.png");
 }
 #insta-riot{
-    background-image: url("/assets/icons/instagram_white.png");
+    background-image: url("./assets/icons/instagram_white.png");
 }
 #twitter-riot{
-    background-image: url("/assets/icons/twitter_white.png");
+    background-image: url(".assets/icons/twitter_white.png");
 }
 #github-andre{
-    background-image: url("/assets/icons/github_white.png");
+    background-image: url("./assets/icons/github_white.png");
 }
 
